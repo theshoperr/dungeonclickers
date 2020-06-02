@@ -18,7 +18,7 @@ I----Weapons and their effects------I
     Clover > +5 Money
     Life > + 80 Life
     Spear > +70 Strength
-I-----------------------------------I
+I--------------------------------------I
 
 I----------------Dungeons and their drops---------------------I
 
@@ -30,4 +30,4 @@ I----------------Dungeons and their drops---------------------I
     Dungeon 6 > Life = 400 > Drops: Bag and Clover
     Dungeon 7 > Life = 500 > Drops: Life and Spear
     Dungeon 8 > Life = 350 > Drops: Sword 
-I-------------------------------------------------------------I
+I----------------------------------------------------------------I
