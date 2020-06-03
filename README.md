@@ -27,7 +27,7 @@ I----------------Dungeons and their drops---------------------I
     Dungeon 3 > Life = 300 > Drops: Life potion and Bomb
     Dungeon 4 > Life = 400 > Drops: Knife and Horseshoe
     Dungeon 5 > Life = 450 > Drops: Shield and Scythe
-    Dungeon 6 > Life = 400 > Drops: Bag and Clover
-    Dungeon 7 > Life = 500 > Drops: Life and Spear
+    Dungeon 6 > Life = 400 > Drops: Bag and Spear
+    Dungeon 7 > Life = 500 > Drops: Life and Clover
     Dungeon 8 > Life = 350 > Drops: Sword 
 I----------------------------------------------------------------I
